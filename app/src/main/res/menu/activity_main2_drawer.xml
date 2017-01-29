@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_farm10" android:icon="@drawable/lapis_icon"
+            android:title="10 QUESTÕES" />
+        <item android:id="@+id/nav_farm20" android:icon="@drawable/lapis_icon"
+            android:title="20 QUESTÕES" />
+        <item android:id="@+id/nav_farm30" android:icon="@drawable/lapis_icon"
+            android:title="30 QUESTÕES" />
+    </group>
+
+    <item android:title="Leis">
+        <menu>
+            <item android:id="@+id/nav_l3820" android:icon="@drawable/cff"
+                android:title="Lei no. 3.820/60" />
+            <item android:id="@+id/nav_l5991" android:icon="@drawable/cff"
+                android:title="Lei no. 5.991/73" />
+            <item android:id="@+id/nav_l6360" android:icon="@drawable/cff"
+                android:title="Lei no. 6.360/76" />
+            <item android:id="@+id/nav_l8080" android:icon="@drawable/cff"
+                android:title="Lei no. 8.080/90" />
+            <item android:id="@+id/nav_l9279" android:icon="@drawable/cff"
+                android:title="Lei no. 9.279/96" />
+            <item android:id="@+id/nav_l9787" android:icon="@drawable/cff"
+                android:title="Lei no. 9.787/99" />
+            <item android:id="@+id/nav_l9965" android:icon="@drawable/cff"
+                android:title="Lei no. 9.965/00" />
+            <item android:id="@+id/nav_l10213" android:icon="@drawable/cff"
+                android:title="Lei no. 10.213/01" />
+            <item android:id="@+id/nav_l10699" android:icon="@drawable/cff"
+                android:title="Lei no. 10.699/03" />
+            <item android:id="@+id/nav_l11343" android:icon="@drawable/cff"
+                android:title="Lei no. 11.343/06" />
+            <item android:id="@+id/nav_l13021" android:icon="@drawable/cff"
+                android:title="Lei no. 13.021/14" />
+        </menu>
+    </item>
+    <item android:title="Portarias">
+        <menu>
+            <item android:id="@+id/nav_p6" android:icon="@drawable/cff"
+                android:title="Portaria 6/99" />
+            <item android:id="@+id/nav_p132" android:icon="@drawable/cff"
+                android:title="Portaria 132/02 " />
+            <item android:id="@+id/nav_p176" android:icon="@drawable/cff"
+                android:title="Portaria 176/99" />
+            <item android:id="@+id/nav_p312" android:icon="@drawable/cff"
+                android:title="Portaria 312/02" />
+            <item android:id="@+id/nav_p344" android:icon="@drawable/cff"
+                android:title="Portaria 344/98" />
+            <item android:id="@+id/nav_p371" android:icon="@drawable/cff"
+                android:title="Portaria 371/GM/02" />
+            <item android:id="@+id/nav_p500" android:icon="@drawable/cff"
+                android:title="Portaria 500/MS/SNVS/97" />
+            <item android:id="@+id/nav_p698" android:icon="@drawable/cff"
+                android:title="Portaria 698/GM/02" />
+            <item android:id="@+id/nav_p761" android:icon="@drawable/cff"
+                android:title="Portaria 761/GM/99" />
+            <item android:id="@+id/nav_p783" android:icon="@drawable/cff"
+                android:title="Portaria 783/98" />
+            <item android:id="@+id/nav_p786" android:icon="@drawable/cff"
+                android:title="Portaria 786/GM/02" />
+            <item android:id="@+id/nav_p801" android:icon="@drawable/cff"
+                android:title="Portaria 801/98" />
+            <item android:id="@+id/nav_p802" android:icon="@drawable/cff"
+                android:title="Portaria 802/99" />
+            <item android:id="@+id/nav_p1017" android:icon="@drawable/cff"
+                android:title="Portaria 1.017/02" />
+            <item android:id="@+id/nav_p1051" android:icon="@drawable/cff"
+                android:title="Portaria 1.051/98" />
+            <item android:id="@+id/nav_p1565" android:icon="@drawable/cff"
+                android:title="Portaria 1.565/MS/GM/94" />
+            <item android:id="@+id/nav_p3916" android:icon="@drawable/cff"
+                android:title="Portaria 3.916/98" />
+        </menu>
+    </item>
+    <item android:title="Resoluções">
+        <menu>
+            <item android:id="@+id/nav_r17" android:icon="@drawable/cff"
+                android:title="RDC 17/00" />
+            <item android:id="@+id/nav_r18" android:icon="@drawable/cff"
+                android:title="RDC 18/00" />
+            <item android:id="@+id/nav_r33" android:icon="@drawable/cff"
+                android:title="RDC 33/00" />
+            <item android:id="@+id/nav_r3303" android:icon="@drawable/cff"
+                android:title="RDC 33/03" />
+            <item android:id="@+id/nav_r44" android:icon="@drawable/cff"
+                android:title="RDC 44/09" />
+            <item android:id="@+id/nav_r102" android:icon="@drawable/cff"
+                android:title="RDC 102/00" />
+            <item android:id="@+id/nav_r135" android:icon="@drawable/cff"
+                android:title="RDC 135/03" />
+            <item android:id="@+id/nav_r137" android:icon="@drawable/cff"
+                android:title="RDC 137/03" />
+            <item android:id="@+id/nav_r140" android:icon="@drawable/cff"
+                android:title="RDC 140/03" />
+            <item android:id="@+id/nav_r173" android:icon="@drawable/cff"
+                android:title="RDC 173/03" />
+            <item android:id="@+id/nav_r199" android:icon="@drawable/cff"
+                android:title="RDC 199/04" />
+            <item android:id="@+id/nav_r210" android:icon="@drawable/cff"
+                android:title="RDC 210/03" />
+            <item android:id="@+id/nav_r214" android:icon="@drawable/cff"
+                android:title="RDC 214/06" />
+            <item android:id="@+id/nav_r221" android:icon="@drawable/cff"
+                android:title="RDC 221/06" />
+            <item android:id="@+id/nav_r268" android:icon="@drawable/cff"
+                android:title="RDC 268/03" />
+            <item android:id="@+id/nav_r328" android:icon="@drawable/cff"
+                android:title="Resolução 328/99" />
+            <item android:id="@+id/nav_r338" android:icon="@drawable/cff"
+                android:title="Resolução 338/04" />
+            <item android:id="@+id/nav_et" android:icon="@drawable/cff"
+                android:title="Código de Ética" />
+        </menu>
+    </item>
+    <item android:title="Decretos">
+        <menu>
+            <item android:id="@+id/nav_d3181" android:icon="@drawable/cff"
+                android:title="Decreto 3.181/99" />
+            <item android:id="@+id/nav_d3675" android:icon="@drawable/cff"
+                android:title="Decreto 3.675/00" />
+            <item android:id="@+id/nav_d4074" android:icon="@drawable/cff"
+                android:title="Decreto 4.074/02" />
+            <item android:id="@+id/nav_d4202" android:icon="@drawable/cff"
+                android:title="Decreto 4.202/02" />
+            <item android:id="@+id/nav_d5090" android:icon="@drawable/cff"
+                android:title="Decreto 5.090/04" />
+            <item android:id="@+id/nav_d85878" android:icon="@drawable/cff"
+                android:title="Decreto 85.878/81" />
+        </menu>
+    </item>
+    <item android:title="Instruções Normativas">
+        <menu>
+            <item android:id="@+id/nav_in9" android:icon="@drawable/cff"
+                android:title="IN 9/09" />
+            <item android:id="@+id/nav_in10" android:icon="@drawable/cff"
+                android:title="IN 10/09" />
+        </menu>
+    </item>
+    <item android:title="Contato">
+        <menu>
+            <item android:id="@+id/nav_email" android:icon="@drawable/email"
+                android:title="Email" />
+        </menu>
+    </item>
+</menu>
